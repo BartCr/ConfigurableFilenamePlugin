@@ -27,7 +27,7 @@
     <id>be.cegeka.intellij.plugin.configurablefilename</id>
     <name>ConfigurableFilename</name>
     <version>0.1</version>
-    <vendor url="http://www.cegeka.be/" email="bcremers@gmail.com">Bart Cremers</vendor>
+    <vendor url="https://github.com/BartCr/ConfigurableFilenamePlugin" email="bcremers@gmail.com">Bart Cremers</vendor>
 
     <description><![CDATA[
       <p>A plugin to allow developers to configure custom filenames using template variables.</p>
